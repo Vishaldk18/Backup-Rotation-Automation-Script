@@ -1,0 +1,70 @@
+# =========================
+# OS Generated Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Logs & Temporary Files
+# =========================
+*.log
+*.tmp
+*.temp
+*.swp
+
+# =========================
+# Backup & Archive Files
+# =========================
+*.zip
+*.tar
+*.tar.gz
+*.gz
+backup_*
+
+# =========================
+# Environment Files
+# =========================
+.env
+.env.*
+
+# =========================
+# Shell History / Debug
+# =========================
+*.sh~
+*.bash_history
+
+# =========================
+# IDE / Editor Files
+# =========================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# =========================
+# Terraform (if added later)
+# =========================
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+
+# =========================
+# Python (if you extend project)
+# =========================
+__pycache__/
+*.pyc
+venv/
+.envrc
+
+# =========================
+# Node (if future tooling added)
+# =========================
+node_modules/
+
+# =========================
+# Misc
+# =========================
+coverage/
+dist/
+build/
